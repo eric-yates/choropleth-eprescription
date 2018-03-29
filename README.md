@@ -2,6 +2,8 @@
 
 A map that displays rates of e-prescription availability by state and by county. The type of map is called a "choropleth" which visually shows the value of a variable by shades of color.
 
+![](/images/by_state.png)
+![](/images/by_county.png)
 
 ## Getting Started
 
